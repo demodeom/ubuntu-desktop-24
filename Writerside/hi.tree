@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="001-更新、升级.md">
+
+    <toc-element topic="001-更新、升级.md"/>
+    <toc-element topic="002-输入法.md"/>
+    <toc-element topic="003-Oh-My-Zsh.md"/>
+    <toc-element topic="Flatpak.md"/>
+    <toc-element topic="Docker.md"/>
+    <toc-element topic="文本编辑器.md"/>
+    <toc-element topic="代理.md"/>
+    <toc-element topic="浏览器.md"/>
+    <toc-element topic="代码编辑器.md"/>
+    <toc-element topic="国内常用软件.md"/>
+    <toc-element topic="多媒体.md"/>
+    <toc-element topic="012-办公.md"/>
+</instance-profile>
