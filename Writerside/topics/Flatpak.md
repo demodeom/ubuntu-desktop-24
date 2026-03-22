@@ -1,4 +1,4 @@
-# Flatpak
+# 004 Flatpak
 
 ## 安装 Flatpak {id="flatpak_1"}
 
